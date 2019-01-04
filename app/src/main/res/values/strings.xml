@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SpotEvent</string>
+
+    <!-- Register Fragment -->
+    <string name="tv_register_title">Register Account</string>
+    <string name="et_register_email">Email</string>
+    <string name="et_register_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_already_registered">Already registered? Login here</string>
+    <string name="et_register_fullname">Full Name</string>
+    <string name="tv_register_id">Public ID : </string>
+    <string name="rb_ktp">KTP</string>
+    <string name="rb_SIM">SIM</string>
+    <string name="rb_student_card">Student Card</string>
+    <string name="et_register_public_id">Public ID Number</string>
+    <string name="et_register_birthplace">Birthplace</string>
+    <string name="et_register_birthday">Birthday</string>
+    <string name="et_register_address">Address</string>
+
+    <!-- General Read Single activity -->
+    <string name="tv_event_title">Judul Event</string>
+    <string name="tv_current_money">Rp. 0</string>
+    <string name="tv_target_money">Rp. 0</string>
+    <string name="tv_current_process">0% Pencapaian</string>
+    <string name="tv_time">0 Hari lagi</string>
+    <string name="tv_desc">Deskripsi Event</string>
+    <string name="btn_like">Like</string>
+    <string name="btn_share">Share</string>
+
+    <!-- Sponsor Read Single Activity Only -->
+    <string name="tv_sponsor_label">Sponsor</string>
+    <string name="btn_sponsor_event">Sponsor this event!</string>
+
+    <!-- Partner Read Single Activity Only -->
+    <string name="tv_partner_label">Partner</string>
+    <string name="btn_partner_event">Support this event!</string>
+
+    <!-- Sponsor and Support this Activity -->
+    <string name="tv_this_label"> This Event </string>
+    <string name="tv_this_name_label">Name</string>
+    <string name="tv_this_name">Ojan</string>
+    <string name="tv_this_public_id_label">ID Type</string>
+    <string name="tv_this_public_id">Student Card</string>
+    <string name="tv_this_public_id_number_label">Public ID</string>
+    <string name="tv_this_public_id_number">140810150041</string>
+    <string name="tv_this_email_label">Email</string>
+    <string name="tv_this_email">ojan@gmail.com</string>
+    <string name="et_add_money">Money</string>
+    <string name="btn_this_go">Submit</string>
+</resources>
